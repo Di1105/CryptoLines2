@@ -13,6 +13,7 @@
 		C61CD1E92907116E00FB0667 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C61CD1E72907116E00FB0667 /* Main.storyboard */; };
 		C61CD1EB2907117000FB0667 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C61CD1EA2907117000FB0667 /* Assets.xcassets */; };
 		C61CD1EE2907117000FB0667 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C61CD1EC2907117000FB0667 /* LaunchScreen.storyboard */; };
+		C61CD1F6290714F600FB0667 /* CryptoTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C61CD1F5290714F600FB0667 /* CryptoTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		C61CD1EA2907117000FB0667 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C61CD1ED2907117000FB0667 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C61CD1EF2907117000FB0667 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C61CD1F5290714F600FB0667 /* CryptoTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CryptoTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				C61CD1EA2907117000FB0667 /* Assets.xcassets */,
 				C61CD1EC2907117000FB0667 /* LaunchScreen.storyboard */,
 				C61CD1EF2907117000FB0667 /* Info.plist */,
+				C61CD1F5290714F600FB0667 /* CryptoTableViewCell.swift */,
 			);
 			path = CryptoLines;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C61CD1F6290714F600FB0667 /* CryptoTableViewCell.swift in Sources */,
 				C61CD1E62907116E00FB0667 /* ViewController.swift in Sources */,
 				C61CD1E22907116E00FB0667 /* AppDelegate.swift in Sources */,
 				C61CD1E42907116E00FB0667 /* SceneDelegate.swift in Sources */,
